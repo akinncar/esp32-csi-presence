@@ -4,6 +4,11 @@ A WiFi-based presence sensor: an ESP32-S3 detects whether anyone is in the room
 (**0 vs 1+ people**) without a camera or motion sensor, using WiFi **Channel
 State Information (CSI)**.
 
+<img width="380"  alt="image" src="https://github.com/user-attachments/assets/0580c776-6856-4ecf-add5-df2be8f707eb" />
+<img width="380"  alt="image" src="https://github.com/user-attachments/assets/abf9810d-212d-4d3b-aaaa-7b585e6d59c7" />
+
+
+
 The board joins your WiFi and pings the router ~100 times per second. Every reply
 carries CSI, a per-subcarrier snapshot of how the signal travelled through the
 room. People moving change those paths, so the signal fluctuates more. The board
