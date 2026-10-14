@@ -1,0 +1,4 @@
+esptool==5.5.0
+numpy==2.5.4
+platformio==6.2.0
+pyserial==3.5

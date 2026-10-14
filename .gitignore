@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PlatformIO build output (may contain compiled-in WiFi credentials)
+firmware/.pio/
+firmware/.vscode/
+
+# Local data
+calibration.json
+*.csv
+
+# Secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
