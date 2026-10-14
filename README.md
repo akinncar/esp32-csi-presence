@@ -6,8 +6,9 @@ State Information (CSI)**.
 
 <img width="310"  alt="image" src="https://github.com/user-attachments/assets/0580c776-6856-4ecf-add5-df2be8f707eb" />
 <img width="310"  alt="image" src="https://github.com/user-attachments/assets/abf9810d-212d-4d3b-aaaa-7b585e6d59c7" />
-
-
+<br />
+<img width="310" alt="WhatsApp Image 2026-10-14 at 20 37 34" src="https://github.com/user-attachments/assets/e0c0b1c6-8a1e-4c12-bfb0-1a0b847f2a0b" />
+<img width="310" alt="WhatsApp Image 2026-10-14 at 20 37 34 (1)" src="https://github.com/user-attachments/assets/159a40ad-5c36-46f8-b672-f7b5dc66a444" />
 
 The board joins your WiFi and pings the router ~100 times per second. Every reply
 carries CSI, a per-subcarrier snapshot of how the signal travelled through the
